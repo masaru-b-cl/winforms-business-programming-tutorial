@@ -75,7 +75,9 @@ Windowsフォームによる業務プログラミングチュートリアル
 
 - [GUIプログラミング入門 for Windows Forms](https://github.com/masaru-b-cl/introduction-to-winforms-programming)
 - [DBプログラミング入門 by ODP.NET](https://github.com/masaru-b-cl/introduction-to-db-programming-by-odp-dot-net)
-- [TDD のこころ @ OSH2014](https://www.slideshare.net/t_wada/osh2014-sprit-of-tdd)
+- [オブジェクト指向プログラミングの五つ原則 - S.O.L.I.D (S編) - WonderPlanet DEVELOPER BLOG](http://developer.wonderpla.net/entry/blog/engineer/oop_solid_s/)
+- [プレゼンテーションとドメインの分離](http://bliki-ja.github.io/PresentationDomainSeparation/)
+- [プログラムの依存関係とモジュール構成のこと - Qiita](https://qiita.com/wm3/items/2c90bfd9e973d368ebd8)
 
 ライセンス
 -----
