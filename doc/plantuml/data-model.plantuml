@@ -1,0 +1,29 @@
+@startuml
+
+場所 "1" -- "0..*" 会議室
+
+会議室 "1" -- "0..*" 予約
+
+class 場所 <<マスタ>>  {
+    名称
+}
+
+class 会議室 <<マスタ>>  {
+    名称
+    場所
+}
+
+class 予約 <<トラン>>  {
+    会議室
+    予約開始日時
+    予約終了日時
+    利用者
+}
+
+hide <<マスタ>> circle
+hide <<マスタ>> methods
+
+hide <<トラン>> circle
+hide <<トラン>> methods
+
+@enduml
