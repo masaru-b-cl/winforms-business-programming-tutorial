@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MRRS.Shared", "MRRS.Shared\MRRS.Shared.csproj", "{394F00E3-C42E-4B68-8CDE-D01B9934C43F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MRRS.Model", "MRRS.Model\MRRS.Model.csproj", "{3B78B051-413A-4745-B776-D6B83DDBD171}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MRRS.View", "MRRS.View\MRRS.View.csproj", "{58CC7CF8-B0CC-42D4-8907-6A9CC01CEE21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{394F00E3-C42E-4B68-8CDE-D01B9934C43F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394F00E3-C42E-4B68-8CDE-D01B9934C43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{394F00E3-C42E-4B68-8CDE-D01B9934C43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{394F00E3-C42E-4B68-8CDE-D01B9934C43F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B78B051-413A-4745-B776-D6B83DDBD171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B78B051-413A-4745-B776-D6B83DDBD171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B78B051-413A-4745-B776-D6B83DDBD171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B78B051-413A-4745-B776-D6B83DDBD171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58CC7CF8-B0CC-42D4-8907-6A9CC01CEE21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CC7CF8-B0CC-42D4-8907-6A9CC01CEE21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CC7CF8-B0CC-42D4-8907-6A9CC01CEE21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CC7CF8-B0CC-42D4-8907-6A9CC01CEE21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
