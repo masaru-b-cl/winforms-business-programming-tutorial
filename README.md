@@ -76,3 +76,10 @@ Windowsフォームによる業務プログラミングチュートリアル
 - [GUIプログラミング入門 for Windows Forms](https://github.com/masaru-b-cl/introduction-to-winforms-programming)
 - [DBプログラミング入門 by ODP.NET](https://github.com/masaru-b-cl/introduction-to-db-programming-by-odp-dot-net)
 - [TDD のこころ @ OSH2014](https://www.slideshare.net/t_wada/osh2014-sprit-of-tdd)
+
+ライセンス
+-----
+
+![クリエイティブ・コモンズ・ライセンス](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+この 作品 は [クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス](http://creativecommons.org/licenses/by-sa/4.0/") の下に提供されています。
